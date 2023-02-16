@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "f46fe159439eb54e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c06c274dd8ac6ebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd871c30cea73dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethereum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdbb22870383b981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "058001dee5df653c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9272576976b1b6ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CELO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a75cfd1692e2124",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fc712a5ee922a3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41c8e19fd5df93f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "096c10b42ac8d4a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "417ce7772d5d3935",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5718208c7af434bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2584b43212720e81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dd77b1cf7ee780c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Solana.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3332512f25cc85fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Solana.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2572ee016c0a2fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b073304aabf0c7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Solana.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "058001dee5df653c",
+  "lastOpenFiles": [
+    "Wormhole.md",
+    "Solana.md",
+    "BSC.md",
+    "Ethereum.md",
+    "Celer network.md",
+    "CELO.md",
+    "Allbridge.md",
+    "Chains.md",
+    "Fantom.md",
+    "Polygon.md"
+  ]
+}
