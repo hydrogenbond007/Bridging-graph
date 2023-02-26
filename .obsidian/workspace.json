@@ -83,8 +83,12 @@
             "id": "2a548f12102d62c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Solana.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -154,6 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Solana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Solana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +197,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Solana.md"
+              }
             }
           }
         ]
@@ -213,6 +221,7 @@
   },
   "active": "2a548f12102d62c4",
   "lastOpenFiles": [
+    "Near.md",
     "Squid.md",
     "Aptos.md",
     "BSC.md",
@@ -221,7 +230,6 @@
     "Solana.md",
     "Optimism.md",
     "Polygon.md",
-    "Near.md",
     "Future Ideas to work on!.canvas"
   ]
 }
