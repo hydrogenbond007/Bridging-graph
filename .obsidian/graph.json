@@ -15,14 +15,14 @@
       }
     },
     {
-      "query": "Celer Netowrk",
+      "query": "Celer Network",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5431401
       }
     },
     {
-      "query": "",
+      "query": "Solana",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -34,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.261555989583333,
+  "repelStrength": 7.59440104166667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": false
+  "scale": 0.7331110622483298,
+  "close": true
 }

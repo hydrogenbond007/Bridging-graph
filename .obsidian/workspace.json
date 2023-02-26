@@ -11,11 +11,15 @@
             "id": "cd871c30cea73dd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Ethereum.md",
-                "mode": "source",
-                "source": false
+                "file": "Future Ideas to work on!.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           },
@@ -25,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BSC.md",
+                "file": "Wormhole.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solana.md",
+                "file": "Ethereum.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,9 +58,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8d7ac89479b95b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BSC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb2fba0ff2773d69",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a548f12102d62c4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -122,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Solana.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,17 +211,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "058001dee5df653c",
+  "active": "2a548f12102d62c4",
   "lastOpenFiles": [
-    "Wormhole.md",
-    "Solana.md",
+    "Squid.md",
+    "Aptos.md",
     "BSC.md",
     "Ethereum.md",
-    "Celer network.md",
     "CELO.md",
-    "Allbridge.md",
-    "Chains.md",
-    "Fantom.md",
-    "Polygon.md"
+    "Solana.md",
+    "Optimism.md",
+    "Polygon.md",
+    "Near.md",
+    "Future Ideas to work on!.canvas"
   ]
 }
