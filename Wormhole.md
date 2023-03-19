@@ -4,3 +4,7 @@ https://www.portalbridge.com/#/transfer
 
 Wormhole also hoops to build xdapps
 
+[[Solana]] -> [[Ethereum]]
+	-> [[Avalanche]] , [[Polygon]] [[Optimism]] [[Near]]
+	[[CELO]] [[Aptos]] [[Algorand]] [[Moonbeam]] [[Arbitrum]] 
+	

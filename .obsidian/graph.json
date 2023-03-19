@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "EVM",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "Celer Network",
       "color": {
         "a": 1,
@@ -22,10 +15,31 @@
       }
     },
     {
-      "query": "Solana",
+      "query": "Synapse",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Wormhole",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Allbridge",
+      "color": {
+        "a": 1,
+        "rgb": 8760037
+      }
+    },
+    {
+      "query": "MultiChain",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     }
   ],
@@ -39,6 +53,6 @@
   "repelStrength": 7.59440104166667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7331110622483298,
+  "scale": 1.0070034977592155,
   "close": true
 }

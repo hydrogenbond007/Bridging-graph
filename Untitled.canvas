@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"dca8d4f504bd64d2","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"ethereum "},
+		{"id":"6fd6d70b508b7329","x":217,"y":-32,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"62fc40d1b4a5ed72","fromNode":"dca8d4f504bd64d2","fromSide":"right","toNode":"6fd6d70b508b7329","toSide":"left"}
+	]
+}
