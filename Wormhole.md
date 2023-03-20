@@ -2,9 +2,10 @@
 
 https://www.portalbridge.com/#/transfer
 
-Wormhole also hoops to build xdapps
+Wormhole also hoops to build xdapps [[Asset Bridge]]
 
 [[Solana]] -> [[Ethereum]]
 	-> [[Avalanche]] , [[Polygon]] [[Optimism]] [[Near]]
-	[[CELO]] [[Aptos]] [[Algorand]] [[Moonbeam]] [[Arbitrum]] 
+	[[CELO]] [[Aptos]] [[Algorand]] [[Moonbeam]] [[Arbitrum]] [[BSC]]
+	
 	
