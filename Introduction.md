@@ -3,6 +3,6 @@
 	- To use it locally, download the repo and open it as a valut in Obsidian or  any of the knowledge graph note taking thingies. 
 - ---
 - ## Things to keep in mind
-	- Cross chain bridging is a gas intensive task so make sure to spend some moni paying just for gas + fees.
+	- Cross [[Chains]] bridging is a gas intensive task so make sure to spend some moni paying just for gas + fees.
 	- Cross chain liquidity keeps changing overtime so some assets that were bridgable before might have problems in the future.
 	- 
