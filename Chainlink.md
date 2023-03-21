@@ -1,1 +1,1 @@
-Chainlink is an oracle on [[Ethereum]]
+Chainlink is an [[oracle]] on [[Ethereum]]

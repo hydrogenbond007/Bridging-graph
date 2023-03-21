@@ -11,9 +11,17 @@
             "id": "7850549c8875cb22",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba7b33ad3964c139",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Router chain.md",
+                "file": "Shamba Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,8 +107,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Celer network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +190,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Celer network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +211,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Celer network.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -228,14 +231,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09b1c045389131e6",
+  "active": "7850549c8875cb22",
   "lastOpenFiles": [
-    "Allbridge.md",
+    "Untitled 1.canvas",
+    "Chainlink.md",
+    "Chains.md",
+    "Router chain.md",
+    "Shamba Network.md",
+    "Axeler Bridge.md",
     "Solana.md",
     "Celer network.md",
-    "Router chain.md",
+    "Allbridge.md",
     "Avalanche.md",
-    "Axeler Bridge.md",
     "Communication Bridges.md",
     "MultiChain.md",
     "LayerZero.md",
@@ -245,7 +252,6 @@
     "BSC.md",
     "Abracadabra.md",
     "SwitchBoard.md",
-    "Chainlink.md",
     "Pasted image 20230320153701.png",
     "Asset Bridge.md",
     "Synapse.md",
@@ -253,11 +259,8 @@
     "Hyperlane.md",
     "Introduction.md",
     "Ethereum.md",
-    "Chains.md",
     "Untitled.canvas",
     "CosmoWasm.md",
-    "Virtual Machines and Run times.md",
-    "SVM-BPf.md",
     "Future Ideas to work on!.canvas"
   ]
 }
