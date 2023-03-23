@@ -16,6 +16,42 @@
             }
           },
           {
+            "id": "b18c6b7042c107a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shamba Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "255cf9ff5fec0e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Razor Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f104d8edea81dfc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pyth network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ba7b33ad3964c139",
             "type": "leaf",
             "state": {
@@ -233,11 +269,15 @@
   },
   "active": "7850549c8875cb22",
   "lastOpenFiles": [
+    "README.md",
+    "Pyth network.md",
+    "Razor Network.md",
+    "Shamba Network.md",
+    "Superfluid.md",
     "Untitled 1.canvas",
     "Chainlink.md",
     "Chains.md",
     "Router chain.md",
-    "Shamba Network.md",
     "Axeler Bridge.md",
     "Solana.md",
     "Celer network.md",
@@ -257,10 +297,7 @@
     "Synapse.md",
     "Cosmos.md",
     "Hyperlane.md",
-    "Introduction.md",
-    "Ethereum.md",
     "Untitled.canvas",
-    "CosmoWasm.md",
     "Future Ideas to work on!.canvas"
   ]
 }
