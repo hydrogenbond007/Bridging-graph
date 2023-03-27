@@ -143,8 +143,12 @@
             "id": "f169b0696658133d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Clockwork.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -215,6 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Clockwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Clockwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +258,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Clockwork.md"
+              }
             }
           }
         ]
@@ -274,6 +282,10 @@
   },
   "active": "f169b0696658133d",
   "lastOpenFiles": [
+    "Squid.md",
+    "Uma.md",
+    "Untitled.md",
+    "Clockwork.md",
     "Request Protocol.md",
     "Sablier.md",
     "Stream.md",
@@ -287,7 +299,6 @@
     "SVM-BPf.md",
     "Lit Protocol.md",
     "Band Protocol.md",
-    "Untitled.md",
     "Asset Bridge.md",
     "Solana.md",
     "Celer network.md",
@@ -299,9 +310,6 @@
     "README.md",
     "Untitled 1.canvas",
     "Chainlink.md",
-    "Chains.md",
-    "Router chain.md",
-    "Axeler Bridge.md",
     "Pasted image 20230320153701.png",
     "Untitled.canvas",
     "Future Ideas to work on!.canvas"
