@@ -1,52 +1,31 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Celer Network",
+      "query": "section:(Axeler)",
       "color": {
         "a": 1,
-        "rgb": 5431401
+        "rgb": 1392726
       }
     },
     {
-      "query": "Synapse",
+      "query": "section:(Wormhole)",
       "color": {
         "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "Wormhole",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "Allbridge",
-      "color": {
-        "a": 1,
-        "rgb": 8760037
-      }
-    },
-    {
-      "query": "MultiChain",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
+        "rgb": 5395168
       }
     },
     {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 11657298
       }
     }
   ],
@@ -55,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.261555989583333,
   "repelStrength": 7.59440104166667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0805611545359903,
+  "scale": 0.8788017654103175,
   "close": false
 }
