@@ -1,1 +1,1 @@
-[[Communication Bridges]]
+[[Communication Bridges(Cross chain)]]

@@ -1,0 +1,2 @@
+> The Climate Action Data (CAD) Trust (formerly known as Climate Warehouse) is a global public meta-data layer empowering a new global carbon market infrastructure through a decentralized information technology platform built on blockchain technology. It aims to mobilise climate action toward the Paris Agreement’s objectives by enhancing transparency and environmental integrity of carbon credit transactions and international carbon markets.
+
